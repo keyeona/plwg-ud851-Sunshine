@@ -10,3 +10,4 @@ When you're done, or if you run into any problems, you can open up the solution 
 # Contributing
 
 Because of the way this repository is constructed, pull requests don't really work. Issues, however, are gratefully accepted!
+:)
